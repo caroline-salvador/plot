@@ -40,4 +40,4 @@ EXECUTANDO O PROJETO
 
 1. Com a venv ativada, execute o script:
 	python plot.py
-2. O script vai gerar arquivos de imagens com os gráficos na pasta do script
+2. Arquivos de imagens dos gráficos serão salvos na pasta do script
